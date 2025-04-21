@@ -17,4 +17,4 @@ right now there is no big projects released, may be when its ready.
 // shell: bash
 // wm: i3wm on xorg with raw bumblebee-status, no themes, just black screens.. 
 // for normal desktop environment i usually use kde-plasma
-// font: currently FiraCode Mono Medium, also was using Hack Mono Medium, ProFont IIx pretty cool though
+// font: ProFont, my favorite
